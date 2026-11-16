@@ -5,12 +5,11 @@
   "verify": [
     "python3",
     "-B",
-    "fixture_check.py"
+    "verify.py"
   ],
   "demo": [
     "python3",
     "-B",
-    "fixture_check.py",
-    "demo"
+    "demo.py"
   ]
 }
